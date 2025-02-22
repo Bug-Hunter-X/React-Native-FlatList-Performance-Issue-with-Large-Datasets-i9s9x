@@ -1,0 +1,1 @@
+This bug occurs when using the `FlatList` component in React Native with a large dataset.  The issue arises when trying to update the data of the `FlatList` efficiently.  Standard methods of updating state can lead to performance issues or infinite loops.  This often manifests as slow scrolling, lag, or even crashes.
